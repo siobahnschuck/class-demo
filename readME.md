@@ -19,3 +19,6 @@ this is new information---
  var b = 1;
 var x = 100;
 ```
+
+
+ .........gone........... 
