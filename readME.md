@@ -15,5 +15,7 @@ this is new information---
 
 
 ```
+ console.log(b)
+ var b = 1;
 var x = 100;
 ```
